@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticImportDLL", "StaticImportDLL\StaticImportDLL.vcxproj", "{AB0B9490-BC22-4597-BF89-3BC8786506DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Debug|x64.ActiveCfg = Debug|x64
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Debug|x64.Build.0 = Debug|x64
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Debug|x86.Build.0 = Debug|Win32
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Release|x64.ActiveCfg = Release|x64
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Release|x64.Build.0 = Release|x64
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Release|x86.ActiveCfg = Release|Win32
+		{AB0B9490-BC22-4597-BF89-3BC8786506DD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FE0DB4-1B43-4C25-9217-A870DB19A458}
+	EndGlobalSection
+EndGlobal
